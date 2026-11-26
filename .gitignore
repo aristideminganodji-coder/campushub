@@ -4,3 +4,7 @@ __pycache__/
 node_modules/
 .next/
 storage/
+*.pyc 
+.pytest_cache
+backend/storage/*
+!backend/storage/.gitkeep
